@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ecdb253.css",
+    "main.js": "/static/js/main.ab2b5051.js",
+    "static/js/787.8653b062.chunk.js": "/static/js/787.8653b062.chunk.js",
+    "static/media/back.jpeg": "/static/media/back.0a7322bfd0d759ecd7a2.jpeg",
+    "static/media/LinkedIn-logo.png": "/static/media/LinkedIn-logo.2ccecd5140ef1e9f3d9d.png",
+    "index.html": "/index.html",
+    "main.0ecdb253.css.map": "/static/css/main.0ecdb253.css.map",
+    "main.ab2b5051.js.map": "/static/js/main.ab2b5051.js.map",
+    "787.8653b062.chunk.js.map": "/static/js/787.8653b062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecdb253.css",
+    "static/js/main.ab2b5051.js"
+  ]
+}
